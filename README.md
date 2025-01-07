@@ -1,5 +1,8 @@
 # Source-Aware Neural Speech Coding for Noisy Speech Compression
 Yang, Haici, et al. "Source-Aware Neural Speech Coding for Noisy Speech Compression." ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2021.
+
+- Paper: https://arxiv.org/abs/2008.12889
+- Webpage: https://minjekim.com/research-projects/sanac/
 ## Prerequisites
 Python 3.6.8<br>
 torch 1.6.0<br>
